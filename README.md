@@ -30,6 +30,7 @@ Features:
 - Score tracking
 - High-score functionality
 - Console-based implementation
+![Basic Flappy Bird Gameplay](assets/gameplay/flappy-bird-basic.gif)
 
 ### 2. Graphics Integrated Version — `flappy_gfx.c`
 
@@ -39,6 +40,7 @@ Features:
 - Graphical rendering
 - Improved visual presentation
 - Enhanced gameplay experience
+![Graphics Integrated Flappy Bird](assets/gameplay/flappy-bird-graphics.gif)
 
 ### 3. Flappy Pixel — `flappy_pixel.c`
 
@@ -50,6 +52,7 @@ Features:
 - Customizable game appearance
 - Improved graphical presentation
 - Score and high-score tracking
+![Flappy Pixel Gameplay](assets/gameplay/flappy-bird-themes.gif)
 
 ---
 
