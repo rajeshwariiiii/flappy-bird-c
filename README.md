@@ -70,7 +70,11 @@ Features:
 
 ```text
 Flappy-Bird/
-│
+├──assets
+    └── gameplay
+        ├── flappy-bird-basic.gif
+        ├── flappy-bird-graphics.gif
+        └── flappy-bird-themes.gif
 ├── flappy_bird.c       # Basic C implementation
 ├── flappy_gfx.c        # First graphics-integrated version
 ├── flappy_pixel.c      # Improved version with customizable themes
