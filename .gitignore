@@ -1,0 +1,23 @@
+# VS Code configuration (local to my computer)
+.vscode/
+
+# Compiled executable files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+*.dSYM/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Operating system files
+Thumbs.db
+.DS_Store
+desktop.ini
